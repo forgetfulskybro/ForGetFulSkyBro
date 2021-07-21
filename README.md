@@ -12,4 +12,4 @@ My current project's name is `ForGetFul`, it's a multipurpose Discord bot made f
 
 Well, it's kind of obvious, here you can see what I've listened to recently or I am currently. **Don't mind the weird songs if you happen to see it here, I am just weird and like listening to them 😳**
 
-[[https://spotify-github-profile.vercel.app/api/view.svg?uid=8fw8wluifdebs12yo4k3j0h6c&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=8fw8wluifdebs12yo4k3j0h6c&cover_image=true&theme=default)]]
+[https://spotify-github-profile.vercel.app/api/view.svg?uid=8fw8wluifdebs12yo4k3j0h6c&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=8fw8wluifdebs12yo4k3j0h6c&cover_image=true&theme=default)]
