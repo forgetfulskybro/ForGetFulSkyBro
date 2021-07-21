@@ -13,3 +13,11 @@ My current project's name is `ForGetFul`, it's a multipurpose Discord bot made f
 Well, it's kind of obvious, here you can see what I've listened to recently or I am currently. **Don't mind the weird songs if you happen to see it here, I am just weird and like listening to them 😳**
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8fw8wluifdebs12yo4k3j0h6c&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+
+
+## Github Status
+
+Here's some stats that I honestly don't care about but others might 😊, if you want this for yourself, click the image/card below and you can make one yourself by adding your username to it instead of mine 😊
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=forgetfulskybro)](https://github.com/anuraghazra/github-readme-stats)
+
