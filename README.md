@@ -15,7 +15,7 @@ Well, it's kind of obvious, here you can see what I've listened to recently or I
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=8fw8wluifdebs12yo4k3j0h6c&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
 
 
-## Github Status
+## Random Statistics
 
 Here's some stats that I honestly don't care about but others might 😊, if you want this for yourself, click the image/card below and you can make one yourself by adding your username to it instead of mine 😊
 
