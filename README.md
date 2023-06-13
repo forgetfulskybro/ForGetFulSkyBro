@@ -5,8 +5,11 @@ My name is `ForGetFulSkyBro` or you can call me `Sky` for short. I make websites
 ## Current Project
 
 My current project's name is `Would You`. Elevate your server's engagement with Would You, featuring user voting, daily messages, and customizability.
+
 [Website](https://wouldyoubot.gg)
+
 [Invite](https://wouldyoubot.gg/invite)
+
 [Support](https://wouldyoubot.gg/discord)
 
 ## Spotify Status
