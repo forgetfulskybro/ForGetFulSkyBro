@@ -1,12 +1,13 @@
 ### My Bio 😲
 
-My name is `ForGetFulSkyBro` or you can call me `Sky` for short. I make websites and Discord bots whenever I feel bored and have nothing else to do or play. If you want to talk to me, you can find me [here](https://discord.gg/ty6Rsua)
+My name is `ForGetFulSkyBro` or you can call me `Sky` for short. I make websites and Discord bots whenever I feel bored and have nothing else to do or play.
 
 ## Current Project
 
-My current project's name is `ForGetFul`, it's a multipurpose Discord bot made for any server to have fun for the members, logging and moderation for the moderators and/or admins, and a utility section for anyone that wants to see some statistics (like myself). I love seeing statistics, either it being the bot's stats, guilds, or even users! There is hundreds of commands to check out for yourself. You can invite it [here](https://forgetful.ga/invite), you can find its website [here](https://forgetful.ga). If you want to see all my projects I've worked on, you can find them all [here](https://forgetful.ga/about).
-
-
+My current project's name is `Would You`. Elevate your server's engagement with Would You, featuring user voting, daily messages, and customizability.
+[Website](https://wouldyoubot.gg)
+[Invite](https://wouldyoubot.gg/invite)
+[Support](https://wouldyoubot.gg/discord)
 
 ## Spotify Status
 
