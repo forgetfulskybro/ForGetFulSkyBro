@@ -18,7 +18,7 @@ My current project's name is `Would You`. Elevate your server's engagement with 
 
 Well, it's kind of obvious, here you can see what I've listened to recently or I am currently. **Don't mind the weird songs if you happen to see it here, I am just weird and like listening to them 😳**
 
-[![spotify-github-profile]([https://spotify-github-profile.vercel.app](https://spotify-github-profile.kittinanx.com/api/view?uid=8fw8wluifdebs12yo4k3j0h6c&cover_image=true&theme=default)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8fw8wluifdebs12yo4k3j0h6c&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 ## Random Statistics
