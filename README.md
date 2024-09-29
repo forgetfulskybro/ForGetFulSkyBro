@@ -25,7 +25,5 @@ Well, it's kind of obvious, here you can see what I've listened to recently or I
 
 Here's some stats that I honestly don't care about but others might. If you want this for yourself, click the image/card below and you can make one yourself by adding your username to it instead of mine.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=forgetfulskybro&hide_border=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
-
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
