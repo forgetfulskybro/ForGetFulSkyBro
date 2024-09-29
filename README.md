@@ -1,4 +1,4 @@
-### My Bio 😲
+### My Bio 
 
 My name is `ForGetFulSkyBro` or you can call me `Sky` for short. I make websites and Discord bots whenever I feel bored and have nothing else to do or play.
 
@@ -16,7 +16,7 @@ My current project's name is `Would You`. Elevate your server's engagement with 
 
 ## Spotify Status
 
-Well, it's kind of obvious, here you can see what I've listened to recently or I am currently. **Don't mind the weird songs if you happen to see it here, I am just weird and like listening to them 😳**
+Well, it's kind of obvious, here you can see what I've listened to recently or I am currently.
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8fw8wluifdebs12yo4k3j0h6c&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
@@ -27,5 +27,5 @@ Here's some stats that I honestly don't care about but others might. If you want
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=forgetfulskybro&hide_border=true&theme=vue-dark)](https://github.com/anuraghazra/github-readme-stats) 
 
-[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=forgetfulskybro)](https://github.com/anuraghazra/github-readme-stats)
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
