@@ -23,7 +23,7 @@ Well, it's kind of obvious, here you can see what I've listened to recently or I
 
 ## Random Statistics
 
-Here's some stats that I honestly don't care about but others might. If you want this for yourself, click the image/card below and you can make one yourself by adding your username to it instead of mine.
+Here's some stats about my coding from WakaTime
 
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
