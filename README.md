@@ -28,16 +28,6 @@ Here's some stats about my coding from WakaTime
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C346%20hrs-blue)
 
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                429 commits         ████░░░░░░░░░░░░░░░░░░░░░   16.19 % 
-🌆 Daytime                1553 commits        ███████████████░░░░░░░░░░   58.63 % 
-🌃 Evening                576 commits         █████░░░░░░░░░░░░░░░░░░░░   21.74 % 
-🌙 Night                  91 commits          █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
-```
-
-
 📊 **This Week I Spent My Time On** 
 
 ```text
@@ -67,5 +57,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/09/2024 01:02:29 UTC
+ Last Updated on 30/09/2024 01:07:25 UTC
 <!--END_SECTION:waka-->
