@@ -34,14 +34,10 @@ Here's some stats about my coding from WakaTime
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               1 hr 23 mins        ███████████████████░░░░░░   76.50 % 
-JSON                     24 mins             ██████░░░░░░░░░░░░░░░░░░░   22.64 % 
-JavaScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.78 % 
-Bash                     0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Would-You                1 hr 48 mins        █████████████████████████   99.14 % 
-The Sky Support          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.86 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -57,5 +53,5 @@ HTML                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/10/2024 18:43:07 UTC
+ Last Updated on 02/10/2024 18:43:01 UTC
 <!--END_SECTION:waka-->
