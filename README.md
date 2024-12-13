@@ -26,7 +26,7 @@ Well, it's kind of obvious, here you can see what I've listened to recently or I
 Here's some stats about my coding from WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C410%20hrs%2048%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C411%20hrs%209%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -34,14 +34,14 @@ Here's some stats about my coding from WakaTime
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               5 hrs 17 mins       ████████████████░░░░░░░░░   65.69 % 
-HTML                     1 hr 58 mins        ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
-JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.81 % 
-TypeScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.01 % 
+JavaScript               4 hrs 56 mins       ████████████████░░░░░░░░░   63.79 % 
+HTML                     2 hrs 1 min         ███████░░░░░░░░░░░░░░░░░░   26.03 % 
+JSON                     37 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.10 % 
+TypeScript               9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.08 % 
 
 🐱‍💻 Projects: 
-MP4 Viewer               7 hrs 53 mins       ████████████████████████░   97.98 % 
-Would-You                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
+MP4 Viewer               7 hrs 35 mins       ████████████████████████░   97.90 % 
+Would-You                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.10 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -57,5 +57,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/12/2024 18:45:58 UTC
+ Last Updated on 13/12/2024 18:44:57 UTC
 <!--END_SECTION:waka-->
