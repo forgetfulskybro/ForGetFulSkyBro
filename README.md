@@ -26,7 +26,7 @@ Well, it's kind of obvious, here you can see what I've listened to recently or I
 Here's some stats about my coding from WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C413%20hrs%2010%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C413%20hrs%2018%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -55,5 +55,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/12/2024 18:39:14 UTC
+ Last Updated on 23/12/2024 18:41:20 UTC
 <!--END_SECTION:waka-->
