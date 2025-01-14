@@ -26,7 +26,7 @@ Well, it's kind of obvious, here you can see what I've listened to recently or I
 Here's some stats about my coding from WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C444%20hrs%2014%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C444%20hrs%2025%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -34,12 +34,14 @@ Here's some stats about my coding from WakaTime
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               6 hrs 28 mins       ██████████████████████░░░   86.35 % 
-JSON                     1 hr                ███░░░░░░░░░░░░░░░░░░░░░░   13.39 % 
-JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
+JSON                     55 mins             ███████████████░░░░░░░░░░   61.31 % 
+TypeScript               30 mins             ████████░░░░░░░░░░░░░░░░░   33.84 % 
+Bash                     3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
+JavaScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   01.20 % 
 
 🐱‍💻 Projects: 
-Would-You                7 hrs 29 mins       █████████████████████████   100.00 % 
+Would-You                1 hr 27 mins        ████████████████████████░   96.34 % 
+Functious-Adapt          3 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.66 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -55,5 +57,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 13/01/2025 18:44:01 UTC
+ Last Updated on 14/01/2025 18:41:16 UTC
 <!--END_SECTION:waka-->
