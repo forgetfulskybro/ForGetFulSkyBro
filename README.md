@@ -26,7 +26,7 @@ Well, it's kind of obvious, here you can see what I've listened to recently or I
 Here's some stats about my coding from WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C583%20hrs%2037%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C583%20hrs%2056%20mins-blue)
 
 📊 **This Week I Spent My Time On** 
 
@@ -34,14 +34,14 @@ Here's some stats about my coding from WakaTime
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               6 hrs 8 mins        █████████████████████████   99.25 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.71 % 
+JavaScript               5 hrs 56 mins       █████████████████████████   99.23 % 
+JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.73 % 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 
 🐱‍💻 Projects: 
-Sky-Polaris              6 hrs 1 min         ████████████████████████░   97.31 % 
-ForGetFul                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-The Sky Support          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.08 % 
+Sky-Polaris              5 hrs 49 mins       ████████████████████████░   97.26 % 
+ForGetFul                9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.62 % 
+The Sky Support          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 Would-You                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
@@ -58,5 +58,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/09/2025 18:44:12 UTC
+ Last Updated on 27/09/2025 18:41:53 UTC
 <!--END_SECTION:waka-->
