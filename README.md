@@ -26,22 +26,6 @@ Well, it's kind of obvious, here you can see what I've listened to recently or I
 Here's some stats about my coding from WakaTime
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C586%20hrs%2054%20mins-blue)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-JavaScript               3 hrs 15 mins       █████████████████████████   99.31 % 
-TypeScript               1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-
-🐱‍💻 Projects: 
-Sky-Polaris              3 hrs 15 mins       █████████████████████████   99.31 % 
-Would-You                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.69 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -55,5 +39,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 02/10/2025 18:43:56 UTC
+ Last Updated on 03/10/2025 18:44:35 UTC
 <!--END_SECTION:waka-->
