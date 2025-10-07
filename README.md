@@ -34,12 +34,10 @@ Here's some stats about my coding from WakaTime
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               52 mins             ████████████████████████░   97.49 % 
-TypeScript               1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-Sky-Polaris              52 mins             ████████████████████████░   97.49 % 
-Would-You                1 min               █░░░░░░░░░░░░░░░░░░░░░░░░   02.51 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -55,5 +53,5 @@ CSS                      1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 06/10/2025 18:46:45 UTC
+ Last Updated on 07/10/2025 18:47:05 UTC
 <!--END_SECTION:waka-->
