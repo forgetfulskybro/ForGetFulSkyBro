@@ -34,12 +34,10 @@ Here's some stats about my coding from WakaTime
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    59 mins             █████████████████████████   99.30 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+No Activity Tracked This Week
 
 🐱‍💻 Projects: 
-tictactoe-ripple         1 hr                █████████████████████████   100.00 % 
+No Activity Tracked This Week
 ```
 
 **I Mostly Code in TypeScript** 
@@ -55,5 +53,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 17/11/2025 18:48:38 UTC
+ Last Updated on 18/11/2025 18:50:15 UTC
 <!--END_SECTION:waka-->
