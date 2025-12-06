@@ -1,29 +1,21 @@
 ### My Bio 
 
-My name is `ForGetFulSkyBro` or you can call me `Sky` for short. I make websites and Discord bots whenever I feel bored and have nothing else to do or play.
-
-[Website](https://forgetful.vercel.app) (In progress)
+You can call me Sky for short. Mostly just make websites or Discord bots whenever I'm not lazy. Like to work on my [personal website](https://forgetful.vercel.app) to stay up to date with website building
 
 ## Current Project
-
-My current project's name is `Would You`. Elevate your server's engagement with Would You, featuring user voting, daily messages, and customizability.
+Current and most popular project is `Would You`, a Discord bot. Elevate your server's engagement with Would You, featuring user voting, daily messages, and customizability.
 
 [Website](https://wouldyoubot.gg)
-
 [Invite](https://wouldyoubot.gg/invite)
-
 [Support](https://wouldyoubot.gg/discord)
 
 ## Spotify Status
-
-Well, it's kind of obvious, here you can see what I've listened to recently or I am currently.
+Just random songs I listen to. Can also view my current song on my website: https://forgetful.vercel.app/info
 
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=8fw8wluifdebs12yo4k3j0h6c&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
 
 
 ## Random Statistics
-
-Here's some stats about my coding from WakaTime
 
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C656%20hrs%2039%20mins-blue)
