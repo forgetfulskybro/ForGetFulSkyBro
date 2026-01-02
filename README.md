@@ -20,19 +20,6 @@ Just random songs I listen to. Can also view my current song on my website: http
 <!--START_SECTION:waka-->
 ![Code Time](http://img.shields.io/badge/Code%20Time-1%2C660%20hrs%2049%20mins-blue)
 
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-JSON                     19 mins             ████████████████████████░   96.63 % 
-TypeScript               0 secs              █░░░░░░░░░░░░░░░░░░░░░░░░   03.37 % 
-
-🐱‍💻 Projects: 
-website                  20 mins             █████████████████████████   100.00 % 
-```
-
 **I Mostly Code in TypeScript** 
 
 ```text
@@ -46,5 +33,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/01/2026 18:50:45 UTC
+ Last Updated on 02/01/2026 18:50:16 UTC
 <!--END_SECTION:waka-->
