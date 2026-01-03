@@ -18,20 +18,18 @@ Just random songs I listen to. Can also view my current song on my website: http
 ## Random Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C660%20hrs%2049%20mins-blue)
-
 **I Mostly Code in TypeScript** 
 
 ```text
-TypeScript               7 repos             ██████████░░░░░░░░░░░░░░░   38.89 % 
-JavaScript               6 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.11 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.56 % 
+TypeScript               6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
+JavaScript               6 repos             █████████░░░░░░░░░░░░░░░░   35.29 % 
+HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   11.76 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.88 % 
 ```
 
 
 
 
- Last Updated on 02/01/2026 18:50:16 UTC
+ Last Updated on 03/01/2026 18:49:00 UTC
 <!--END_SECTION:waka-->
