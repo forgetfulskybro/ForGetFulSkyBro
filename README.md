@@ -18,7 +18,7 @@ Just random songs I listen to. Can also view my current song on my website: http
 ## Random Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C663%20hrs%2027%20mins-blue)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C663%20hrs%2027%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -47,5 +47,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/01/2026 18:49:04 UTC
+ Last Updated on 05/01/2026 18:54:42 UTC
 <!--END_SECTION:waka-->
