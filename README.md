@@ -18,7 +18,7 @@ Just random songs I listen to. Can also view my current song on my website: http
 ## Random Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C667%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C667%20hrs%2018%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -26,14 +26,14 @@ Just random songs I listen to. Can also view my current song on my website: http
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               3 hrs 8 mins        ████████████████████████░   96.08 % 
-JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.79 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
+JavaScript               3 hrs 8 mins        █████████████████████░░░░   83.09 % 
+TypeScript               30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.46 % 
+JSON                     7 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.44 % 
 
 🐱‍💻 Projects: 
-Sky-Polaris              3 hrs 15 mins       █████████████████████████   99.85 % 
-Would-You                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.14 % 
-website                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+Sky-Polaris              3 hrs 15 mins       ██████████████████████░░░   86.35 % 
+Would-You                30 mins             ███░░░░░░░░░░░░░░░░░░░░░░   13.63 % 
+website                  0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.01 % 
 ```
 
 **I Mostly Code in TypeScript** 
@@ -49,5 +49,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/01/2026 18:52:07 UTC
+ Last Updated on 09/01/2026 18:54:05 UTC
 <!--END_SECTION:waka-->
