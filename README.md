@@ -68,7 +68,7 @@ Elevate your community with fun polls, daily would-you-rather questions, custom 
 ## Random Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C706%20hrs%2059%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C712%20hrs%2033%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -76,32 +76,32 @@ Elevate your community with fun polls, daily would-you-rather questions, custom 
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               12 hrs 55 mins      ████████████████████░░░░░   80.21 % 
-JSON                     2 hrs 42 mins       ████░░░░░░░░░░░░░░░░░░░░░   16.78 % 
-Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
-TypeScript               10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.10 % 
-shell script             3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.38 % 
+JavaScript               14 hrs 21 mins      ████████████████████░░░░░   79.48 % 
+JSON                     2 hrs 40 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.83 % 
+TypeScript               42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.91 % 
+Markdown                 14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.38 % 
+shell script             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.19 % 
 
 🐱‍💻 Projects: 
-Unknown Project          14 hrs 12 mins      ██████████████████████░░░   88.24 % 
-Sky-Polaris              1 hr 26 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.94 % 
-YouTube Blocker          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.30 % 
-website                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.02 % 
-Would-You                4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.50 % 
+Unknown Project          17 hrs 3 mins       ████████████████████████░   94.45 % 
+Would-You                36 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+YouTube Blocker          12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
+website                  9 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.91 % 
+Sky-Polaris              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               7 repos             █████████░░░░░░░░░░░░░░░░   36.84 % 
-TypeScript               7 repos             █████████░░░░░░░░░░░░░░░░   36.84 % 
-HTML                     2 repos             ███░░░░░░░░░░░░░░░░░░░░░░   10.53 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   05.26 % 
+JavaScript               9 repos             ███████████░░░░░░░░░░░░░░   42.86 % 
+TypeScript               7 repos             ████████░░░░░░░░░░░░░░░░░   33.33 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   09.52 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.76 % 
 ```
 
 
 
 
- Last Updated on 04/03/2026 19:10:22 UTC
+ Last Updated on 05/03/2026 19:40:30 UTC
 <!--END_SECTION:waka-->
