@@ -49,7 +49,7 @@ Elevate your community with fun polls, daily would-you-rather questions, custom 
 
 ### Side Projects
 
-- **[Fluxer Functious](https://github.com/forgetfulskybro/fluxer-functious)**
+- **[Fluxer Functious](https://github.com/forgetfulskybro/fluxer-functious)**  
   A simple yet customizable bot for Fluxer.app that features polls, reaction roles, autoroles, and giveaways.
 
 - **[Polaris-custom](https://github.com/forgetfulskybro/Polaris-custom)**  
