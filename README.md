@@ -71,7 +71,7 @@ Elevate your community with fun polls, daily would-you-rather questions, custom 
 ## Random Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C756%20hrs%204%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C758%20hrs-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -79,15 +79,14 @@ Elevate your community with fun polls, daily would-you-rather questions, custom 
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               13 hrs 33 mins      ██████████████████████░░░   87.03 % 
-JSON                     2 hrs               ███░░░░░░░░░░░░░░░░░░░░░░   12.87 % 
-shell script             0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.07 % 
+JavaScript               12 hrs 19 mins      █████████████████████░░░░   84.57 % 
+JSON                     2 hrs 14 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.39 % 
 TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-Functious-Fluxer         15 hrs 18 mins      █████████████████████████   98.30 % 
-Unknown Project          14 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.54 % 
-Sky-Polaris              1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.13 % 
+Functious-Fluxer         14 hrs 26 mins      █████████████████████████   99.13 % 
+Unknown Project          6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.72 % 
+Sky-Polaris              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.11 % 
 Would-You                0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
@@ -104,5 +103,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/03/2026 19:23:25 UTC
+ Last Updated on 26/03/2026 19:35:34 UTC
 <!--END_SECTION:waka-->
