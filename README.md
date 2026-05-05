@@ -71,7 +71,7 @@ Elevate your community with fun polls, daily would-you-rather questions, custom 
 ## Random Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C810%20hrs%2026%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C810%20hrs%2028%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -79,12 +79,13 @@ Elevate your community with fun polls, daily would-you-rather questions, custom 
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               11 hrs 24 mins      ███████████████████████░░   91.32 % 
-JSON                     1 hr 5 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.68 % 
+JavaScript               7 hrs 47 mins       ██████████████████████░░░   89.10 % 
+JSON                     55 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.61 % 
+HTML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🐱‍💻 Projects: 
-Functious-Fluxer         12 hrs 24 mins      █████████████████████████   99.42 % 
-Unknown Project          4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.58 % 
+Functious-Fluxer         8 hrs 38 mins       █████████████████████████   98.88 % 
+Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.12 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -100,5 +101,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 04/05/2026 20:00:24 UTC
+ Last Updated on 05/05/2026 19:56:04 UTC
 <!--END_SECTION:waka-->
