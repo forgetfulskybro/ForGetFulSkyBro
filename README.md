@@ -71,27 +71,6 @@ Elevate your community with fun polls, daily would-you-rather questions, custom 
 ## Random Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C815%20hrs%2014%20mins-blue?style=flat)
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: America/New_York
-
-💬 Programming Languages: 
-JavaScript               3 hrs 58 mins       █████████████████████░░░░   83.48 % 
-JSON                     40 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.15 % 
-HTML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.63 % 
-TypeScript               0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.26 % 
-
-🐱‍💻 Projects: 
-Functious-Fluxer         4 hrs 38 mins       ████████████████████████░   97.34 % 
-Unknown Project          5 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.80 % 
-Would-You                1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 % 
-YouTube Blocker          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.27 % 
-```
-
 **I Mostly Code in JavaScript** 
 
 ```text
@@ -105,5 +84,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 14/05/2026 20:11:48 UTC
+ Last Updated on 15/05/2026 19:58:33 UTC
 <!--END_SECTION:waka-->
