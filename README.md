@@ -71,7 +71,7 @@ Elevate your community with fun polls, daily would-you-rather questions, custom 
 ## Random Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C840%20hrs%2033%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C843%20hrs%2044%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -79,30 +79,30 @@ Elevate your community with fun polls, daily would-you-rather questions, custom 
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               31 mins             ███████████████░░░░░░░░░░   59.27 % 
-CSS                      5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.42 % 
-YAML                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   10.17 % 
-JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   07.60 % 
-JavaScript               3 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.17 % 
+TypeScript               21 mins             ████████████░░░░░░░░░░░░░   49.46 % 
+YAML                     5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   13.49 % 
+CSS                      5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.84 % 
+JSON                     4 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.37 % 
+JavaScript               2 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   06.61 % 
 
 🐱‍💻 Projects: 
-website                  37 mins             █████████████████░░░░░░░░   69.70 % 
-Functious-Fluxer         11 mins             █████░░░░░░░░░░░░░░░░░░░░   20.53 % 
-Unknown Project          5 mins              ██░░░░░░░░░░░░░░░░░░░░░░░   09.77 % 
+website                  27 mins             ████████████████░░░░░░░░░   62.31 % 
+Functious-Fluxer         11 mins             ██████░░░░░░░░░░░░░░░░░░░   25.65 % 
+Unknown Project          5 mins              ███░░░░░░░░░░░░░░░░░░░░░░   12.04 % 
 ```
 
 **I Mostly Code in JavaScript** 
 
 ```text
-JavaScript               9 repos             ██████████░░░░░░░░░░░░░░░   39.13 % 
-TypeScript               9 repos             ██████████░░░░░░░░░░░░░░░   39.13 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.70 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.35 % 
+JavaScript               9 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+TypeScript               9 repos             █████████░░░░░░░░░░░░░░░░   37.50 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.33 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.17 % 
 ```
 
 
 
 
- Last Updated on 10/06/2026 21:05:14 UTC
+ Last Updated on 11/06/2026 20:41:23 UTC
 <!--END_SECTION:waka-->
