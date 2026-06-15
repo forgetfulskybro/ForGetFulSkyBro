@@ -3,7 +3,7 @@
   <h1>Hi, I'm ForGetFul or Sky for short</h1>
   
   <p>
-    <strong>Full-time procrastinator, part-time web & Discord bot developer</strong><br>
+    <strong>Full-time procrastinator, part-time web & bot developer</strong><br>
     Building stuff when I'm not lazy
   </p>
 
