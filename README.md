@@ -55,9 +55,6 @@ Elevate your community with fun polls, daily would-you-rather questions, custom 
 - **[Polaris-custom](https://github.com/forgetfulskybro/Polaris-custom)**  
   Custom fork of Polaris with modmail + invite logging. Keeping it updated with new discord.js updates & layout tweaks. (Single-server use)
 
-- **[YouTube Blocker](https://github.com/forgetfulskybro/YouTube-Blocker)**  
-  Simple Chrome extension to block channels from your recommendations & search results.
-
 - **[Cyberpunk Mod Manager](https://github.com/forgetfulskybro/Mod-Manager)**  
   Mod manager for Cyberpunk 2077. Focusing on the Tkinkter version as it's way better than the terminal version.
 
