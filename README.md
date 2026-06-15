@@ -61,7 +61,7 @@ Elevate your community with fun polls, daily would-you-rather questions, custom 
 ---
 
 <div align="center">
-  <sub>Last updated: March 8, 2026 • I like turtles and capybaras btw</sub>
+  <sub>Last updated: June 15, 2026 • I like turtles and capybaras btw</sub>
 </div>
 
 
