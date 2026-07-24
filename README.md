@@ -68,7 +68,7 @@ Elevate your community with fun polls, daily would-you-rather questions, custom 
 ## Random Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C855%20hrs%2056%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C866%20hrs%2054%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -76,16 +76,18 @@ Elevate your community with fun polls, daily would-you-rather questions, custom 
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               3 hrs 20 mins       █████████████████░░░░░░░░   67.76 % 
-TypeScript               56 mins             █████░░░░░░░░░░░░░░░░░░░░   19.11 % 
-JSON                     31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.69 % 
-Bash                     6 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-Markdown                 0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.20 % 
+TypeScript               8 hrs 32 mins       ██████████████░░░░░░░░░░░   56.76 % 
+JavaScript               4 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   27.22 % 
+Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
+JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
+CSS                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
 
 🐱‍💻 Projects: 
-Functious-Fluxer         3 hrs 52 mins       ████████████████████░░░░░   78.50 % 
-Functious-Fluxer-Website 32 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.92 % 
-website                  31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   10.59 % 
+Functious-Fluxer         8 hrs 41 mins       ██████████████░░░░░░░░░░░   57.74 % 
+Unknown Project          4 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   32.67 % 
+Functious-Website        46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
+Functious-Fluxer-Website 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
+website                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -101,5 +103,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/07/2026 19:53:43 UTC
+ Last Updated on 24/07/2026 19:53:05 UTC
 <!--END_SECTION:waka-->
