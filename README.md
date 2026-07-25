@@ -68,7 +68,7 @@ Elevate your community with fun polls, daily would-you-rather questions, custom 
 ## Random Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C866%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C870%20hrs%2021%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -76,18 +76,18 @@ Elevate your community with fun polls, daily would-you-rather questions, custom 
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               8 hrs 32 mins       ██████████████░░░░░░░░░░░   56.76 % 
-JavaScript               4 hrs 5 mins        ███████░░░░░░░░░░░░░░░░░░   27.22 % 
-Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.68 % 
-JSON                     39 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.41 % 
-CSS                      19 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.15 % 
+TypeScript               8 hrs 39 mins       ███████████████░░░░░░░░░░   58.08 % 
+JavaScript               3 hrs 46 mins       ██████░░░░░░░░░░░░░░░░░░░   25.29 % 
+Markdown                 1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+JSON                     40 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
+CSS                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.12 % 
 
 🐱‍💻 Projects: 
-Functious-Fluxer         8 hrs 41 mins       ██████████████░░░░░░░░░░░   57.74 % 
-Unknown Project          4 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   32.67 % 
-Functious-Website        46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.14 % 
-Functious-Fluxer-Website 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.58 % 
-website                  6 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.68 % 
+Functious-Fluxer         8 hrs 26 mins       ██████████████░░░░░░░░░░░   56.61 % 
+Unknown Project          5 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   33.88 % 
+Functious-Website        46 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.19 % 
+Functious-Fluxer-Website 32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.61 % 
+website                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.54 % 
 ```
 
 **I Mostly Code in JavaScript** 
@@ -103,5 +103,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 24/07/2026 19:53:05 UTC
+ Last Updated on 25/07/2026 19:40:57 UTC
 <!--END_SECTION:waka-->
