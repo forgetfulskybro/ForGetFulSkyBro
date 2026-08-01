@@ -68,7 +68,7 @@ Elevate your community with fun polls, daily would-you-rather questions, custom 
 ## Random Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C872%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C874%20hrs%2052%20mins-blue?style=flat)
 
 ![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2043%20mins-blue?style=flat)
 
@@ -78,53 +78,53 @@ Elevate your community with fun polls, daily would-you-rather questions, custom 
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               10 hrs 8 mins       █████████████████░░░░░░░░   68.29 % 
-JavaScript               3 hrs 41 mins       ██████░░░░░░░░░░░░░░░░░░░   24.80 % 
-CSS                      18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.03 % 
-shell script             17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   02.00 % 
-JSON                     16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.81 % 
+TypeScript               12 hrs 15 mins      ██████████████████░░░░░░░   72.51 % 
+JavaScript               3 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
+CSS                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
+shell script             17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
+JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
 
 🐱‍💻 Projects: 
-Unknown Project          8 hrs 26 mins       ██████████████░░░░░░░░░░░   56.78 % 
-Functious-Fluxer         4 hrs 50 mins       ████████░░░░░░░░░░░░░░░░░   32.56 % 
-Functious-Website        1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   08.41 % 
-website                  20 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.25 % 
+Unknown Project          10 hrs 32 mins      ████████████████░░░░░░░░░   62.39 % 
+Functious-Fluxer         4 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.24 % 
+Functious-Website        1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
+website                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 54 mins (19.56%)
+⏱ AI Coding Time: 2 hrs 45 mins (16.37%)
 
-✍️ 1,375 lines written by AI, 2,881 lines written by hand (32.31% AI-written)
+✍️ 1,375 lines written by AI, 4,558 lines written by hand (23.18% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 2 AI Sessions, 70 AI Prompts
+🧠 1 AI Sessions, 44 AI Prompts
 
 Kiro                     1,011 lines         █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 32.31% of written lines came from AI
-📝 Concise Prompter — average 220 characters per prompt
-🔁 Iterative Prompter — average 35 prompts per session
-🔍 Hands-On Reviewer — 75.17% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 23.18% of written lines came from AI
+📝 Concise Prompter — average 349 characters per prompt
+🔁 Iterative Prompter — average 44 prompts per session
+🔍 Hands-On Reviewer — 80.61% of changed lines were hand-edited
 ```
 
-**I Mostly Code in JavaScript** 
+**I Mostly Code in TypeScript** 
 
 ```text
-JavaScript               10 repos            ██████████░░░░░░░░░░░░░░░   40.00 % 
-TypeScript               9 repos             █████████░░░░░░░░░░░░░░░░   36.00 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   08.00 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   04.00 % 
+TypeScript               10 repos            ██████████░░░░░░░░░░░░░░░   38.46 % 
+JavaScript               10 repos            ██████████░░░░░░░░░░░░░░░   38.46 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
 ```
 
 
 
 
- Last Updated on 31/07/2026 19:59:45 UTC
+ Last Updated on 01/08/2026 19:41:15 UTC
 <!--END_SECTION:waka-->
