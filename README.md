@@ -68,9 +68,9 @@ Elevate your community with fun polls, daily would-you-rather questions, custom 
 ## Random Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C874%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C882%20hrs%205%20mins-blue?style=flat)
 
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-19%20hrs%2043%20mins-blue?style=flat)
+![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-22%20hrs%2041%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -78,39 +78,39 @@ Elevate your community with fun polls, daily would-you-rather questions, custom 
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               12 hrs 15 mins      ██████████████████░░░░░░░   72.51 % 
-JavaScript               3 hrs 41 mins       █████░░░░░░░░░░░░░░░░░░░░   21.87 % 
-CSS                      18 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.78 % 
-shell script             17 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.74 % 
-JSON                     15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.56 % 
+TypeScript               10 hrs 27 mins      ███████████████░░░░░░░░░░   59.53 % 
+JavaScript               5 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   30.23 % 
+shell script             52 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.00 % 
+JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.96 % 
+CSS                      10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.01 % 
 
 🐱‍💻 Projects: 
-Unknown Project          10 hrs 32 mins      ████████████████░░░░░░░░░   62.39 % 
-Functious-Fluxer         4 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   28.24 % 
-Functious-Website        1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   07.40 % 
-website                  20 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.97 % 
+Unknown Project          8 hrs 43 mins       ████████████░░░░░░░░░░░░░   49.61 % 
+Functious-Fluxer         6 hrs 31 mins       █████████░░░░░░░░░░░░░░░░   37.10 % 
+Functious-Website        2 hrs 8 mins        ███░░░░░░░░░░░░░░░░░░░░░░   12.15 % 
+website                  12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.14 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 2 hrs 45 mins (16.37%)
+⏱ AI Coding Time: 2 hrs 57 mins (16.85%)
 
-✍️ 1,375 lines written by AI, 4,558 lines written by hand (23.18% AI-written)
+✍️ 998 lines written by AI, 4,031 lines written by hand (19.84% AI-written)
 
 🔤 0 Input Tokens, 0 Output Tokens
 
 💵 $0.00 Estimated AI Cost This Week
 
-🧠 1 AI Sessions, 44 AI Prompts
+🧠 3 AI Sessions, 46 AI Prompts
 
-Kiro                     1,011 lines         █████████████████████████   100.00 % 
+Kiro                     687 lines           █████████████████████████   100.00 % 
 
 🔎 AI Coding Insights:
-🧑‍💻 Mostly Hands-On — 23.18% of written lines came from AI
-📝 Concise Prompter — average 349 characters per prompt
-🔁 Iterative Prompter — average 44 prompts per session
-🔍 Hands-On Reviewer — 80.61% of changed lines were hand-edited
+🧑‍💻 Mostly Hands-On — 19.84% of written lines came from AI
+📄 Detailed Prompter — average 652 characters per prompt
+🔁 Iterative Prompter — average 15 prompts per session
+🔍 Hands-On Reviewer — 85.4% of changed lines were hand-edited
 ```
 
 **I Mostly Code in TypeScript** 
@@ -126,5 +126,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/08/2026 19:41:15 UTC
+ Last Updated on 02/08/2026 19:41:15 UTC
 <!--END_SECTION:waka-->
