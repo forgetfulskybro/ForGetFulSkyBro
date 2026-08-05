@@ -53,7 +53,7 @@ Includes reaction roles, live polls, giveaways, tags, temp channels, and more.
   <a href="https://functious.vercel.app">
     <img src="https://img.shields.io/badge/Website-functious.vercel.app-5865F2?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
   </a>
-  <a href="[https://wouldyoubot.gg/invite](https://web.fluxer.app/oauth2/authorize?client_id=1475548817821799084&scope=bot&permissions=13510799704222800)">
+  <a href="https://web.fluxer.app/oauth2/authorize?client_id=1475548817821799084&scope=bot&permissions=13510799704222800">
     <img src="https://img.shields.io/badge/Invite%20Bot-Add%20to%20Server-7289DA?style=for-the-badge&logo=fluxer&logoColor=white" alt="Invite">
   </a>
   <a href="https://github.com/forgetfulskybro/Fluxer-Functious">
