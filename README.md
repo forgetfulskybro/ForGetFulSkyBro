@@ -24,7 +24,7 @@
 
 ---
 
-### Main Project
+### Main Projects
 
 **Would You** — The Discord bot that turns your server into a voting & engagement machine
 
@@ -45,12 +45,28 @@ Elevate your community with fun polls, daily would-you-rather questions, custom 
   </a>
 </p>
 
+**Functious** — Fluxer bot that helps you setup a server to become functional.
+
+Includes reaction roles, live polls, giveaways, tags, temp channels, and more.
+
+<p align="center">
+  <a href="https://functious.vercel.app">
+    <img src="https://img.shields.io/badge/Website-functious.vercel.app-5865F2?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
+  </a>
+  <a href="[https://wouldyoubot.gg/invite](https://web.fluxer.app/oauth2/authorize?client_id=1475548817821799084&scope=bot&permissions=13510799704222800)">
+    <img src="https://img.shields.io/badge/Invite%20Bot-Add%20to%20Server-7289DA?style=for-the-badge&logo=fluxer&logoColor=white" alt="Invite">
+  </a>
+  <a href="https://github.com/forgetfulskybro/Fluxer-Functious">
+    <img src="https://img.shields.io/badge/Source%20Code-GitHub-black?style=for-the-badge&logo=github&logoColor=white" alt="Source">
+  </a>
+  <a href="https://fluxer.gg/YnINU09E">
+    <img src="https://img.shields.io/badge/Support-Fluxer%20Server-5865F2?style=for-the-badge&logo=fluxer&logoColor=white" alt="Support">
+  </a>
+</p>
+
 ---
 
 ### Side Projects
-
-- **[Fluxer Functious](https://github.com/forgetfulskybro/fluxer-functious)**  
-  A simple yet customizable bot for Fluxer.app that features polls, reaction roles, autoroles, and giveaways.
 
 - **[Polaris-custom](https://github.com/forgetfulskybro/Polaris-custom)**  
   Custom fork of Polaris with modmail + invite logging. Keeping it updated with new discord.js updates & layout tweaks. (Single-server use)
