@@ -84,9 +84,7 @@ Includes reaction roles, live polls, giveaways, tags, temp channels, and more.
 ## Random Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C890%20hrs%2050%20mins-blue?style=flat)
-
-![AI Code Time](http://img.shields.io/badge/AI%20Code%20Time-27%20hrs%2010%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C894%20hrs%2019%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -94,53 +92,37 @@ Includes reaction roles, live polls, giveaways, tags, temp channels, and more.
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               13 hrs 17 mins      ████████████████░░░░░░░░░   62.30 % 
-JavaScript               6 hrs 18 mins       ███████░░░░░░░░░░░░░░░░░░   29.54 % 
-shell script             42 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.32 % 
-JSON                     32 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.57 % 
-CSS                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.04 % 
+TypeScript               14 hrs 30 mins      ███████████████░░░░░░░░░░   60.07 % 
+JavaScript               7 hrs 36 mins       ████████░░░░░░░░░░░░░░░░░   31.49 % 
+JSON                     48 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.38 % 
+shell script             43 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.98 % 
+CSS                      13 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   00.92 % 
 
 🐱‍💻 Projects: 
-Functious-Fluxer         7 hrs 43 mins       █████████░░░░░░░░░░░░░░░░   36.20 % 
-Functious-Website        7 hrs 26 mins       █████████░░░░░░░░░░░░░░░░   34.89 % 
-Unknown Project          5 hrs 53 mins       ███████░░░░░░░░░░░░░░░░░░   27.63 % 
-website                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.27 % 
+Functious-Fluxer         9 hrs 17 mins       ██████████░░░░░░░░░░░░░░░   38.49 % 
+Functious-Website        9 hrs 15 mins       ██████████░░░░░░░░░░░░░░░   38.37 % 
+Unknown Project          5 hrs 18 mins       ██████░░░░░░░░░░░░░░░░░░░   22.02 % 
+website                  16 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.13 % 
 ```
 
 🤖 **AI Coding This Week** 
 
 ```text
-⏱ AI Coding Time: 7 hrs 26 mins (34.87%)
-
-✍️ 2,755 lines written by AI, 2,938 lines written by hand (48.39% AI-written)
-
-🔤 0 Input Tokens, 0 Output Tokens
-
-💵 $0.00 Estimated AI Cost This Week
-
-🧠 6 AI Sessions, 86 AI Prompts
-
-Kiro                     999 lines           █████████████████████████   100.00 % 
-
-🔎 AI Coding Insights:
-⚖️ Balanced with AI — 48.39% of written lines came from AI
-📝 Concise Prompter — average 383 characters per prompt
-🔁 Iterative Prompter — average 14 prompts per session
-🔍 Hands-On Reviewer — 59.23% of changed lines were hand-edited
+No AI Coding Activity Tracked This Week
 ```
 
-**I Mostly Code in TypeScript** 
+**I Mostly Code in JavaScript** 
 
 ```text
-TypeScript               10 repos            ██████████░░░░░░░░░░░░░░░   38.46 % 
-JavaScript               10 repos            ██████████░░░░░░░░░░░░░░░   38.46 % 
-HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.69 % 
-Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
-SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.85 % 
+JavaScript               11 repos            ██████████░░░░░░░░░░░░░░░   40.74 % 
+TypeScript               10 repos            █████████░░░░░░░░░░░░░░░░   37.04 % 
+HTML                     2 repos             ██░░░░░░░░░░░░░░░░░░░░░░░   07.41 % 
+Python                   1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
+SCSS                     1 repo              █░░░░░░░░░░░░░░░░░░░░░░░░   03.70 % 
 ```
 
 
 
 
- Last Updated on 05/08/2026 20:05:34 UTC
+ Last Updated on 07/08/2026 00:21:37 UTC
 <!--END_SECTION:waka-->
