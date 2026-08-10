@@ -84,7 +84,7 @@ Includes reaction roles, live polls, giveaways, tags, temp channels, and more.
 ## Random Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C901%20hrs%2054%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C907%20hrs%204%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -92,17 +92,17 @@ Includes reaction roles, live polls, giveaways, tags, temp channels, and more.
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               11 hrs 26 mins      ██████████████░░░░░░░░░░░   57.71 % 
-JavaScript               7 hrs 18 mins       █████████░░░░░░░░░░░░░░░░   36.90 % 
-JSON                     55 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.69 % 
-YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.37 % 
-CSS                      2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.22 % 
+TypeScript               15 hrs 29 mins      ████████████████░░░░░░░░░   64.46 % 
+JavaScript               7 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   30.78 % 
+JSON                     56 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.93 % 
+YAML                     4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🐱‍💻 Projects: 
-Functious-Website        11 hrs 40 mins      ███████████████░░░░░░░░░░   58.94 % 
-Functious-Fluxer         8 hrs 3 mins        ██████████░░░░░░░░░░░░░░░   40.67 % 
-website                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.36 % 
-Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Functious-Website        15 hrs 51 mins      ████████████████░░░░░░░░░   65.97 % 
+Functious-Fluxer         8 hrs 6 mins        ████████░░░░░░░░░░░░░░░░░   33.70 % 
+website                  4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
+Unknown Project          0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -124,5 +124,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 09/08/2026 19:10:09 UTC
+ Last Updated on 10/08/2026 19:28:24 UTC
 <!--END_SECTION:waka-->
