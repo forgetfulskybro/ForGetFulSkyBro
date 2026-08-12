@@ -92,15 +92,15 @@ Includes reaction roles, live polls, giveaways, tags, temp channels, and more.
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               15 hrs 8 mins       ████████████████░░░░░░░░░   65.95 % 
-JavaScript               6 hrs 36 mins       ███████░░░░░░░░░░░░░░░░░░   28.76 % 
-JSON                     1 hr 3 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.57 % 
-Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.33 % 
-YAML                     3 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
+TypeScript               12 hrs 13 mins      ████████████████░░░░░░░░░   64.59 % 
+JavaScript               5 hrs 33 mins       ███████░░░░░░░░░░░░░░░░░░   29.35 % 
+JSON                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   05.50 % 
+Markdown                 4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.39 % 
+YAML                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.09 % 
 
 🐱‍💻 Projects: 
-Functious-Website        15 hrs 33 mins      █████████████████░░░░░░░░   67.72 % 
-Functious-Fluxer         7 hrs 24 mins       ████████░░░░░░░░░░░░░░░░░   32.28 % 
+Functious-Website        12 hrs 37 mins      █████████████████░░░░░░░░   66.66 % 
+Functious-Fluxer         6 hrs 18 mins       ████████░░░░░░░░░░░░░░░░░   33.34 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -122,5 +122,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/08/2026 19:32:37 UTC
+ Last Updated on 12/08/2026 19:34:35 UTC
 <!--END_SECTION:waka-->
