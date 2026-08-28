@@ -92,15 +92,15 @@ Includes reaction roles, live polls, giveaways, tags, temp channels, and more.
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               2 hrs 11 mins       ████████████████████░░░░░   79.55 % 
-JavaScript               30 mins             █████░░░░░░░░░░░░░░░░░░░░   18.76 % 
-JSON                     2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
-CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.02 % 
+TypeScript               1 hr 16 mins        ██████████████████░░░░░░░   72.91 % 
+JavaScript               26 mins             ██████░░░░░░░░░░░░░░░░░░░   25.01 % 
+JSON                     2 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+CSS                      0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 
 🐱‍💻 Projects: 
-Functious-Website        1 hr 45 mins        ████████████████░░░░░░░░░   64.09 % 
-Functious-Fluxer         33 mins             █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
-website                  25 mins             ████░░░░░░░░░░░░░░░░░░░░░   15.48 % 
+Functious-Website        50 mins             ████████████░░░░░░░░░░░░░   48.47 % 
+Functious-Fluxer         28 mins             ███████░░░░░░░░░░░░░░░░░░   27.05 % 
+website                  25 mins             ██████░░░░░░░░░░░░░░░░░░░   24.48 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -122,5 +122,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 26/08/2026 20:28:57 UTC
+ Last Updated on 28/08/2026 02:15:24 UTC
 <!--END_SECTION:waka-->
