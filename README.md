@@ -84,7 +84,7 @@ Includes reaction roles, live polls, giveaways, tags, temp channels, and more.
 ## Random Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C922%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C926%20hrs%2017%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -92,16 +92,16 @@ Includes reaction roles, live polls, giveaways, tags, temp channels, and more.
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               6 hrs 14 mins       ████████████████░░░░░░░░░   65.32 % 
-JavaScript               2 hrs 54 mins       ████████░░░░░░░░░░░░░░░░░   30.35 % 
-CSS                      11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.06 % 
-JSON                     10 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.85 % 
-Bash                     1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.31 % 
+TypeScript               7 hrs 35 mins       ███████████████░░░░░░░░░░   58.66 % 
+JavaScript               4 hrs 42 mins       █████████░░░░░░░░░░░░░░░░   36.37 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.87 % 
+CSS                      11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+shell script             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.30 % 
 
 🐱‍💻 Projects: 
-Functious-Website        5 hrs 21 mins       ██████████████░░░░░░░░░░░   56.08 % 
-Functious-Fluxer         3 hrs 3 mins        ████████░░░░░░░░░░░░░░░░░   31.98 % 
-website                  1 hr 8 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.94 % 
+Functious-Website        6 hrs 51 mins       █████████████░░░░░░░░░░░░   51.98 % 
+Functious-Fluxer         5 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   39.37 % 
+website                  1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.65 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -123,5 +123,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 30/08/2026 21:20:02 UTC
+ Last Updated on 31/08/2026 22:57:16 UTC
 <!--END_SECTION:waka-->
