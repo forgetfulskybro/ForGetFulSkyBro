@@ -84,7 +84,7 @@ Includes reaction roles, live polls, giveaways, tags, temp channels, and more.
 ## Random Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C927%20hrs%2031%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C927%20hrs%2052%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -92,16 +92,16 @@ Includes reaction roles, live polls, giveaways, tags, temp channels, and more.
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-TypeScript               8 hrs 21 mins       ███████████████░░░░░░░░░░   61.00 % 
-JavaScript               4 hrs 41 mins       █████████░░░░░░░░░░░░░░░░   34.26 % 
-JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.71 % 
-CSS                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.48 % 
+TypeScript               8 hrs 42 mins       ███████████████░░░░░░░░░░   61.95 % 
+JavaScript               4 hrs 41 mins       ████████░░░░░░░░░░░░░░░░░   33.43 % 
+JSON                     22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.64 % 
+CSS                      12 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.44 % 
 shell script             2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.29 % 
 
 🐱‍💻 Projects: 
-Functious-Website        7 hrs 7 mins        █████████████░░░░░░░░░░░░   51.00 % 
-Functious-Fluxer         5 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   37.14 % 
-website                  1 hr 39 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.86 % 
+Functious-Website        7 hrs 27 mins       █████████████░░░░░░░░░░░░   52.10 % 
+Functious-Fluxer         5 hrs 11 mins       █████████░░░░░░░░░░░░░░░░   36.25 % 
+website                  1 hr 40 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.65 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -123,5 +123,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 01/09/2026 21:11:14 UTC
+ Last Updated on 02/09/2026 21:10:48 UTC
 <!--END_SECTION:waka-->
