@@ -84,7 +84,7 @@ Includes reaction roles, live polls, giveaways, tags, temp channels, and more.
 ## Random Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C938%20hrs%2057%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C943%20hrs%2016%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -92,18 +92,18 @@ Includes reaction roles, live polls, giveaways, tags, temp channels, and more.
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               5 hrs 18 mins       ███████████████░░░░░░░░░░   60.63 % 
-TypeScript               2 hrs 47 mins       ████████░░░░░░░░░░░░░░░░░   31.87 % 
-JSON                     31 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.92 % 
-Other                    2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.52 % 
-Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 % 
+JavaScript               7 hrs 47 mins       ███████████████░░░░░░░░░░   60.76 % 
+TypeScript               3 hrs 46 mins       ███████░░░░░░░░░░░░░░░░░░   29.44 % 
+JSON                     1 hr 4 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.43 % 
+Other                    4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.62 % 
+Markdown                 2 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.28 % 
 
 🐱‍💻 Projects: 
-Functious-Fluxer         5 hrs 42 mins       ████████████████░░░░░░░░░   65.25 % 
-Functious-Website        2 hrs 5 mins        ██████░░░░░░░░░░░░░░░░░░░   23.88 % 
-website                  23 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.44 % 
-Would-You                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.48 % 
-dailymessage-service-main11 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.23 % 
+Functious-Fluxer         8 hrs 48 mins       █████████████████░░░░░░░░   68.60 % 
+Functious-Website        3 hrs 20 mins       ███████░░░░░░░░░░░░░░░░░░   26.03 % 
+Would-You                18 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   02.37 % 
+dailymessage-service-main11 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.52 % 
+website                  7 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.99 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -125,5 +125,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 12/09/2026 20:44:57 UTC
+ Last Updated on 13/09/2026 20:59:55 UTC
 <!--END_SECTION:waka-->
