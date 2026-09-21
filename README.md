@@ -92,17 +92,17 @@ Includes reaction roles, live polls, giveaways, tags, temp channels, and more.
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               4 hrs 53 mins       ████████████░░░░░░░░░░░░░   46.58 % 
-TypeScript               4 hrs 11 mins       ██████████░░░░░░░░░░░░░░░   39.82 % 
-Other                    47 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.58 % 
-JSON                     35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.59 % 
-CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.17 % 
+JavaScript               4 hrs 29 mins       █████████████░░░░░░░░░░░░   53.04 % 
+TypeScript               2 hrs 39 mins       ████████░░░░░░░░░░░░░░░░░   31.38 % 
+Other                    43 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.57 % 
+JSON                     33 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.55 % 
+CSS                      1 min               ░░░░░░░░░░░░░░░░░░░░░░░░░   00.21 % 
 
 🐱‍💻 Projects: 
-Functious-Fluxer         4 hrs 57 mins       ████████████░░░░░░░░░░░░░   47.19 % 
-website                  3 hrs 48 mins       █████████░░░░░░░░░░░░░░░░   36.22 % 
-Functious-Website        1 hr 44 mins        ████░░░░░░░░░░░░░░░░░░░░░   16.55 % 
-Sky-Polaris              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+Functious-Fluxer         4 hrs 27 mins       █████████████░░░░░░░░░░░░   52.56 % 
+website                  3 hrs 33 mins       ██████████░░░░░░░░░░░░░░░   41.90 % 
+Functious-Website        27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.49 % 
+Sky-Polaris              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.05 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -124,5 +124,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 20/09/2026 20:57:42 UTC
+ Last Updated on 21/09/2026 22:05:24 UTC
 <!--END_SECTION:waka-->
