@@ -84,7 +84,7 @@ Includes reaction roles, live polls, giveaways, tags, temp channels, and more.
 ## Random Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C954%20hrs%2058%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C955%20hrs%2055%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -92,16 +92,16 @@ Includes reaction roles, live polls, giveaways, tags, temp channels, and more.
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               4 hrs 48 mins       ███████████░░░░░░░░░░░░░░   45.85 % 
-TypeScript               3 hrs 23 mins       ████████░░░░░░░░░░░░░░░░░   32.29 % 
-CSS                      56 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.04 % 
-Other                    46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.32 % 
-JSON                     33 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.29 % 
+JavaScript               5 hrs 5 mins        ███████████░░░░░░░░░░░░░░   43.98 % 
+TypeScript               3 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   33.86 % 
+CSS                      57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
+Other                    53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
+JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
 
 🐱‍💻 Projects: 
-website                  5 hrs 34 mins       █████████████░░░░░░░░░░░░   53.08 % 
-Functious-Fluxer         4 hrs 27 mins       ███████████░░░░░░░░░░░░░░   42.45 % 
-Functious-Website        27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.43 % 
+website                  5 hrs 48 mins       █████████████░░░░░░░░░░░░   50.24 % 
+Functious-Fluxer         4 hrs 58 mins       ███████████░░░░░░░░░░░░░░   43.04 % 
+Functious-Website        46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
 Sky-Polaris              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
 ```
 
@@ -124,5 +124,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/09/2026 21:32:20 UTC
+ Last Updated on 23/09/2026 21:37:57 UTC
 <!--END_SECTION:waka-->
