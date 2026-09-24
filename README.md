@@ -84,7 +84,7 @@ Includes reaction roles, live polls, giveaways, tags, temp channels, and more.
 ## Random Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C955%20hrs%2055%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C960%20hrs%2012%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -92,17 +92,18 @@ Includes reaction roles, live polls, giveaways, tags, temp channels, and more.
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               5 hrs 5 mins        ███████████░░░░░░░░░░░░░░   43.98 % 
-TypeScript               3 hrs 55 mins       ████████░░░░░░░░░░░░░░░░░   33.86 % 
-CSS                      57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.29 % 
-Other                    53 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.74 % 
-JSON                     41 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.93 % 
+TypeScript               6 hrs 32 mins       ███████████░░░░░░░░░░░░░░   43.81 % 
+JavaScript               5 hrs 14 mins       █████████░░░░░░░░░░░░░░░░   35.18 % 
+Other                    1 hr 9 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.75 % 
+JSON                     1 hr                ██░░░░░░░░░░░░░░░░░░░░░░░   06.71 % 
+CSS                      57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.43 % 
 
 🐱‍💻 Projects: 
-website                  5 hrs 48 mins       █████████████░░░░░░░░░░░░   50.24 % 
-Functious-Fluxer         4 hrs 58 mins       ███████████░░░░░░░░░░░░░░   43.04 % 
-Functious-Website        46 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.68 % 
-Sky-Polaris              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.04 % 
+website                  5 hrs 48 mins       ██████████░░░░░░░░░░░░░░░   38.90 % 
+Functious-Fluxer         5 hrs 36 mins       █████████░░░░░░░░░░░░░░░░   37.59 % 
+Functious-Website        3 hrs 14 mins       █████░░░░░░░░░░░░░░░░░░░░   21.77 % 
+Would-You                15 mins             ░░░░░░░░░░░░░░░░░░░░░░░░░   01.71 % 
+Sky-Polaris              0 secs              ░░░░░░░░░░░░░░░░░░░░░░░░░   00.03 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -124,5 +125,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 23/09/2026 21:37:57 UTC
+ Last Updated on 24/09/2026 21:38:45 UTC
 <!--END_SECTION:waka-->
