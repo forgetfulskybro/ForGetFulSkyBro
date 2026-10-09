@@ -84,7 +84,7 @@ Includes reaction roles, live polls, giveaways, tags, temp channels, and more.
 ## Random Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C972%20hrs%2052%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C975%20hrs%209%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -92,18 +92,18 @@ Includes reaction roles, live polls, giveaways, tags, temp channels, and more.
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               2 hrs 26 mins       █████████████░░░░░░░░░░░░   53.40 % 
-TypeScript               59 mins             █████░░░░░░░░░░░░░░░░░░░░   21.65 % 
-Python                   27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.92 % 
-Other                    21 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.88 % 
-JSON                     15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.72 % 
+JavaScript               2 hrs 52 mins       ███████████████░░░░░░░░░░   60.61 % 
+TypeScript               41 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.60 % 
+Python                   27 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.61 % 
+Other                    25 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+JSON                     12 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   04.27 % 
 
 🐱‍💻 Projects: 
-Functious-Fluxer         2 hrs 30 mins       ██████████████░░░░░░░░░░░   54.83 % 
-Artwork Config           56 mins             █████░░░░░░░░░░░░░░░░░░░░   20.43 % 
-Functious-Website        50 mins             █████░░░░░░░░░░░░░░░░░░░░   18.18 % 
-website                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
-Unknown Project          8 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.02 % 
+Functious-Fluxer         2 hrs 51 mins       ███████████████░░░░░░░░░░   60.41 % 
+Artwork Config           56 mins             █████░░░░░░░░░░░░░░░░░░░░   19.79 % 
+Functious-Website        31 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.24 % 
+Unknown Project          14 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.13 % 
+website                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   03.43 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -125,5 +125,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 08/10/2026 23:29:17 UTC
+ Last Updated on 09/10/2026 22:47:03 UTC
 <!--END_SECTION:waka-->
