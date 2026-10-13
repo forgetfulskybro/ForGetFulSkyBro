@@ -92,18 +92,18 @@ Includes reaction roles, live polls, giveaways, tags, temp channels, and more.
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               3 hrs 29 mins       ███████████░░░░░░░░░░░░░░   44.07 % 
-Other                    1 hr 41 mins        █████░░░░░░░░░░░░░░░░░░░░   21.48 % 
-TypeScript               1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   20.78 % 
-JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.59 % 
-Python                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.75 % 
+JavaScript               3 hrs 35 mins       ███████████░░░░░░░░░░░░░░   44.74 % 
+Other                    1 hr 42 mins        █████░░░░░░░░░░░░░░░░░░░░   21.18 % 
+TypeScript               1 hr 38 mins        █████░░░░░░░░░░░░░░░░░░░░   20.51 % 
+JSON                     31 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   06.57 % 
+Python                   27 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.67 % 
 
 🐱‍💻 Projects: 
-Functious-Fluxer         4 hrs 57 mins       ████████████████░░░░░░░░░   62.63 % 
-Functious-Website        1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   20.22 % 
-Artwork Config           56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.84 % 
-Unknown Project          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.25 % 
-website                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.05 % 
+Functious-Fluxer         5 hrs 4 mins        ████████████████░░░░░░░░░   63.16 % 
+Functious-Website        1 hr 36 mins        █████░░░░░░░░░░░░░░░░░░░░   19.96 % 
+Artwork Config           56 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.66 % 
+Unknown Project          15 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.20 % 
+website                  9 mins              █░░░░░░░░░░░░░░░░░░░░░░░░   02.02 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -125,5 +125,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 11/10/2026 22:13:14 UTC
+ Last Updated on 13/10/2026 00:53:08 UTC
 <!--END_SECTION:waka-->
