@@ -84,7 +84,7 @@ Includes reaction roles, live polls, giveaways, tags, temp channels, and more.
 ## Random Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C981%20hrs%2013%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C983%20hrs%2059%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -92,18 +92,18 @@ Includes reaction roles, live polls, giveaways, tags, temp channels, and more.
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-JavaScript               1 hr 54 mins        ███████████░░░░░░░░░░░░░░   43.85 % 
-TypeScript               1 hr 20 mins        ████████░░░░░░░░░░░░░░░░░   31.04 % 
-Other                    29 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.26 % 
-JSON                     19 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   07.56 % 
-shell script             13 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.25 % 
+TypeScript               1 hr 59 mins        ███████░░░░░░░░░░░░░░░░░░   27.48 % 
+JavaScript               1 hr 55 mins        ███████░░░░░░░░░░░░░░░░░░   26.55 % 
+JSON                     1 hr 45 mins        ██████░░░░░░░░░░░░░░░░░░░   24.20 % 
+Other                    39 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   08.96 % 
+Java Properties          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.21 % 
 
 🐱‍💻 Projects: 
-web.strafe.chat          1 hr 43 mins        ██████████░░░░░░░░░░░░░░░   39.77 % 
-Functious-Fluxer         1 hr 2 mins         ██████░░░░░░░░░░░░░░░░░░░   24.02 % 
-Functious-Strafe         51 mins             █████░░░░░░░░░░░░░░░░░░░░   19.66 % 
-Unknown Project          38 mins             ████░░░░░░░░░░░░░░░░░░░░░   14.62 % 
-Functious-Website        4 mins              ░░░░░░░░░░░░░░░░░░░░░░░░░   01.67 % 
+Scratch Sketch           2 hrs 25 mins       ████████░░░░░░░░░░░░░░░░░   33.26 % 
+web.strafe.chat          1 hr 48 mins        ██████░░░░░░░░░░░░░░░░░░░   24.87 % 
+Unknown Project          1 hr 3 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.65 % 
+Functious-Fluxer         1 hr 2 mins         ████░░░░░░░░░░░░░░░░░░░░░   14.34 % 
+Functious-Strafe         51 mins             ███░░░░░░░░░░░░░░░░░░░░░░   11.74 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -125,5 +125,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 18/10/2026 20:56:08 UTC
+ Last Updated on 19/10/2026 22:31:44 UTC
 <!--END_SECTION:waka-->
