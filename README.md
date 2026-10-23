@@ -84,7 +84,7 @@ Includes reaction roles, live polls, giveaways, tags, temp channels, and more.
 ## Random Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C986%20hrs%2039%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C987%20hrs%2058%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -92,18 +92,18 @@ Includes reaction roles, live polls, giveaways, tags, temp channels, and more.
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    2 hrs 29 mins       ██████░░░░░░░░░░░░░░░░░░░   24.50 % 
-TypeScript               2 hrs 26 mins       ██████░░░░░░░░░░░░░░░░░░░   24.12 % 
-JSON                     2 hrs 24 mins       ██████░░░░░░░░░░░░░░░░░░░   23.69 % 
-JavaScript               1 hr 45 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.38 % 
-Java Properties          22 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.74 % 
+Other                    2 hrs 54 mins       ███████░░░░░░░░░░░░░░░░░░   26.97 % 
+TypeScript               2 hrs 13 mins       █████░░░░░░░░░░░░░░░░░░░░   20.63 % 
+JSON                     2 hrs 9 mins        █████░░░░░░░░░░░░░░░░░░░░   20.01 % 
+JavaScript               1 hr 25 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.22 % 
+Python                   1 hr 7 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.36 % 
 
 🐱‍💻 Projects: 
-Functious-Fluxer         3 hrs 50 mins       █████████░░░░░░░░░░░░░░░░   37.82 % 
-Scratch Sketch           2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   23.85 % 
-web.strafe.chat          1 hr 48 mins        ████░░░░░░░░░░░░░░░░░░░░░   17.84 % 
-Coding                   57 mins             ██░░░░░░░░░░░░░░░░░░░░░░░   09.42 % 
-Unknown Project          35 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.86 % 
+Functious-Fluxer         3 hrs 29 mins       ████████░░░░░░░░░░░░░░░░░   32.40 % 
+Scratch Sketch           2 hrs 25 mins       ██████░░░░░░░░░░░░░░░░░░░   22.45 % 
+Coding                   1 hr 17 mins        ███░░░░░░░░░░░░░░░░░░░░░░   11.99 % 
+Mod Manager              1 hr 10 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.95 % 
+web.strafe.chat          1 hr 9 mins         ███░░░░░░░░░░░░░░░░░░░░░░   10.81 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -125,5 +125,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 22/10/2026 21:49:09 UTC
+ Last Updated on 23/10/2026 21:33:18 UTC
 <!--END_SECTION:waka-->
