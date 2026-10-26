@@ -84,7 +84,7 @@ Includes reaction roles, live polls, giveaways, tags, temp channels, and more.
 ## Random Statistics
 
 <!--START_SECTION:waka-->
-![Code Time](http://img.shields.io/badge/Code%20Time-1%2C990%20hrs%2014%20mins-blue?style=flat)
+![Code Time](http://img.shields.io/badge/Code%20Time-1%2C990%20hrs%2057%20mins-blue?style=flat)
 
 📊 **This Week I Spent My Time On** 
 
@@ -92,18 +92,18 @@ Includes reaction roles, live polls, giveaways, tags, temp channels, and more.
 🕑︎ Time Zone: America/New_York
 
 💬 Programming Languages: 
-Other                    6 hrs 18 mins       ██████████░░░░░░░░░░░░░░░   38.50 % 
-Python                   2 hrs 34 mins       ████░░░░░░░░░░░░░░░░░░░░░   15.73 % 
-JSON                     2 hrs 12 mins       ███░░░░░░░░░░░░░░░░░░░░░░   13.43 % 
-JavaScript               1 hr 46 mins        ███░░░░░░░░░░░░░░░░░░░░░░   10.82 % 
-TypeScript               1 hr 29 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.06 % 
+Other                    5 hrs 45 mins       ███████████░░░░░░░░░░░░░░   42.04 % 
+Python                   2 hrs 36 mins       █████░░░░░░░░░░░░░░░░░░░░   19.07 % 
+JavaScript               2 hrs 23 mins       ████░░░░░░░░░░░░░░░░░░░░░   17.45 % 
+PowerShell               1 hr 14 mins        ██░░░░░░░░░░░░░░░░░░░░░░░   09.07 % 
+JSON                     47 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   05.74 % 
 
 🐱‍💻 Projects: 
-Coding                   4 hrs 22 mins       ███████░░░░░░░░░░░░░░░░░░   26.73 % 
-Functious-Fluxer         3 hrs 35 mins       █████░░░░░░░░░░░░░░░░░░░░   21.93 % 
-Mod Manager              3 hrs 6 mins        █████░░░░░░░░░░░░░░░░░░░░   18.98 % 
-Scratch Sketch           2 hrs 25 mins       ████░░░░░░░░░░░░░░░░░░░░░   14.77 % 
-fansly-live-downloader   1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.00 % 
+Functious-Fluxer         4 hrs 19 mins       ████████░░░░░░░░░░░░░░░░░   31.54 % 
+Coding                   3 hrs 56 mins       ███████░░░░░░░░░░░░░░░░░░   28.72 % 
+Mod Manager              3 hrs 8 mins        ██████░░░░░░░░░░░░░░░░░░░   22.97 % 
+fansly-live-downloader   1 hr 8 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   08.36 % 
+Functious-Website        29 mins             █░░░░░░░░░░░░░░░░░░░░░░░░   03.54 % 
 ```
 
 🤖 **AI Coding This Week** 
@@ -125,5 +125,5 @@ SCSS                     1 repo              █░░░░░░░░░░�
 
 
 
- Last Updated on 25/10/2026 21:01:38 UTC
+ Last Updated on 26/10/2026 22:48:23 UTC
 <!--END_SECTION:waka-->
